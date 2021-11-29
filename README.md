@@ -1,1 +1,1 @@
-# -dictionary-PJT
+# dictionary-PJT
